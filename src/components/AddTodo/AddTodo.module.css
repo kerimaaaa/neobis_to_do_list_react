@@ -1,0 +1,34 @@
+.AddTodo_input {
+    padding: 15px;
+    width: 300px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border: none;
+    outline: none;
+    background-color: #fff;
+}
+
+.AddTodo_btn {
+    padding: 15px;
+    border: none;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: #2b46e2;
+}
+
+.AddTodo_username {
+    outline: none;
+    border: none;
+    background-color: #d2d2d2;
+    width: 200px;
+    height: 25px;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 10px 0;
+}
+.AddTodo_phrase{
+    margin-top: 10px;
+    color: #9b9b9b;
+    font-size: 14px;
+}
