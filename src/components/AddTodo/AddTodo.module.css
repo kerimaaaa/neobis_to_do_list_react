@@ -14,6 +14,7 @@
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     background-color: #2b46e2;
+    cursor: pointer;
 }
 
 .AddTodo_username {
@@ -26,6 +27,7 @@
     border-radius: 8px;
     padding: 5px;
     margin: 10px 0;
+    cursor: pointer;
 }
 .AddTodo_phrase{
     margin-top: 10px;
